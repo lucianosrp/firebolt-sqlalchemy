@@ -7,7 +7,7 @@
 
 1. Clone this repo into a Python `3.7+` virtual environment.
 1. `pip install .`
-1. `pip install isort, autoflake, black`
+1. `pip install isort, autoflake, black, pytest, mock`
 1. If using PyCharm, set the test runner as `pytest` and mark `src` as a sources root.
 
 
